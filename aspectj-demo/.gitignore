@@ -1,0 +1,11 @@
+.DS_Store
+.classpath
+.idea/
+*.iml
+target/
+*.pyc
+out/
+.project
+.settings/
+bin/
+*/WEB-INF/lib
